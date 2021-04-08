@@ -1,0 +1,3 @@
+for $Libro in doc("BD_Libros.xml")/Libros/libro
+where $Libro
+return $Libro

@@ -1,0 +1,5 @@
+20:01:27.292  INFO  [LibraryManager] ---- group creation in C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 2\GrupoLibreriasXML
+20:01:27.293  INFO  [LibraryManager]  100
+20:27:50.767  INFO  [LibraryManager] shutdown begins
+20:27:50.770  INFO  [LibraryManager]  closed library BD_Libros
+20:27:50.770  INFO  [LibraryManager] shutdown complete.

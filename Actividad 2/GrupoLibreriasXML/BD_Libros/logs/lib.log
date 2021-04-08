@@ -1,0 +1,24 @@
+20:02:02.969  INFO  [lib BD_Libros] Qizx 4.4p1 creating new XML Library in C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 2\GrupoLibreriasXML\BD_Libros
+20:02:02.970  INFO  [lib BD_Libros] create storage in C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 2\GrupoLibreriasXML\BD_Libros\contents.qdb
+20:02:02.973  INFO  [lib BD_Libros] storage created
+20:02:03.164  INFO  [lib BD_Libros] library creation done
+20:03:15.550  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+20:03:15.569  INFO  [lib BD_Libros] commit 1 on BD_Libros (session 1)
+20:03:15.585  INFO  [lib BD_Libros] commit 1 done
+20:03:15.586  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 ][ 1 2 ]
+20:03:15.586  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 5
+20:03:15.704  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+20:03:15.731  INFO  [lib BD_Libros] commit 2 on BD_Libros (session 1)
+20:03:15.743  INFO  [lib BD_Libros] commit 2 done
+20:03:15.745  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+20:03:15.748  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 8 in ms 1.9808
+20:03:15.748  INFO  [lib BD_Libros] sweeper deleted 2/2 metadocs: 9, 11
+20:03:18.911  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+20:03:18.936  INFO  [lib BD_Libros] commit 3 on BD_Libros (session 1)
+20:03:18.950  INFO  [lib BD_Libros] commit 3 done
+20:03:18.951  INFO  [lib BD_Libros] sweeper deleted 1/1 docs: 14 in ms 0.0711
+20:03:18.951  INFO  [lib BD_Libros] sweeper deleted 2/2 metadocs: 15, 17
+20:03:18.951  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 ]
+20:27:50.768  INFO  [lib BD_Libros] All sessions closed
+20:27:50.769  INFO  [lib BD_Libros] Sweeper stopped
+20:27:50.770  INFO  [lib BD_Libros] library closed 
