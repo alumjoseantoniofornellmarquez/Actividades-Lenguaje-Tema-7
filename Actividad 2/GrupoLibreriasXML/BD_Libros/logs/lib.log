@@ -22,3 +22,8 @@
 20:27:50.768  INFO  [lib BD_Libros] All sessions closed
 20:27:50.769  INFO  [lib BD_Libros] Sweeper stopped
 20:27:50.770  INFO  [lib BD_Libros] library closed 
+20:35:04.424  INFO  [lib BD_Libros] Library opened by Qizx 4.4p1
+20:35:04.424  INFO  [lib BD_Libros]  location C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 2\GrupoLibreriasXML\BD_Libros
+20:35:04.424  INFO  [lib BD_Libros]  document storage version=5, lastBId=25, BCount=18, maxA=502
+20:38:25.883  INFO  [lib BD_Libros] All sessions closed
+20:38:25.884  INFO  [lib BD_Libros] library closed 
