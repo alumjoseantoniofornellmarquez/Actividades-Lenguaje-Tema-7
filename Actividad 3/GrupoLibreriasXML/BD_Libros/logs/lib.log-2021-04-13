@@ -1,0 +1,5 @@
+17:41:40.049  INFO  [lib BD_Libros] Library opened by Qizx 4.4p1
+17:41:40.050  INFO  [lib BD_Libros]  location C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 3\GrupoLibreriasXML\BD_Libros
+17:41:40.050  INFO  [lib BD_Libros]  document storage version=5, lastBId=25, BCount=18, maxA=502
+18:57:17.217  INFO  [lib BD_Libros] All sessions closed
+18:57:17.218  INFO  [lib BD_Libros] library closed 

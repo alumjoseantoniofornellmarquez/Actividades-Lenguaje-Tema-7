@@ -1,0 +1,4 @@
+for $Baile in doc("DB_BailesDeSalon.xml")//Bailes/baile
+let $profesor:=$Baile/profesor
+where $Baile/precio[@cuota="mensual"]
+return $profesor

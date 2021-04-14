@@ -1,0 +1,65 @@
+17:50:19.594  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+17:50:19.595  INFO  [lib BD_BailesDeSalon]  location C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 3\GrupoLibreriasXML\BD_BailesDeSalon
+17:50:19.595  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=14, BCount=12, maxA=502
+18:23:56.842  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+18:23:56.890  INFO  [lib BD_BailesDeSalon] commit 2 on BD_BailesDeSalon (session 1)
+18:23:56.908  INFO  [lib BD_BailesDeSalon] commit 2 done
+18:23:56.908  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+18:23:56.908  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 9 in ms 0.3856
+18:23:56.909  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 10
+18:34:07.741  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+18:34:07.763  INFO  [lib BD_BailesDeSalon] commit 3 on BD_BailesDeSalon (session 1)
+18:34:07.778  INFO  [lib BD_BailesDeSalon] commit 3 done
+18:34:07.778  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 15 in ms 0.0543
+18:34:07.778  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 ]
+18:34:07.778  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 16
+18:36:13.239  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+18:36:13.254  INFO  [lib BD_BailesDeSalon] commit 4 on BD_BailesDeSalon (session 1)
+18:36:13.269  INFO  [lib BD_BailesDeSalon] commit 4 done
+18:36:13.269  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 19 in ms 0.0411
+18:36:13.269  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 20
+18:36:13.269  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 ][ 1 2 3 4 5 ]
+18:37:03.319  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+18:37:03.333  INFO  [lib BD_BailesDeSalon] commit 5 on BD_BailesDeSalon (session 1)
+18:37:03.347  INFO  [lib BD_BailesDeSalon] commit 5 done
+18:37:03.347  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 23 in ms 0.0427
+18:37:03.347  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 24
+18:37:03.347  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 ][ 1 2 3 4 5 6 ]
+18:37:23.727  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+18:37:23.741  INFO  [lib BD_BailesDeSalon] commit 6 on BD_BailesDeSalon (session 1)
+18:37:23.756  INFO  [lib BD_BailesDeSalon] commit 6 done
+18:37:23.756  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 27 in ms 0.0346
+18:37:23.756  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 ][ 1 2 3 4 5 6 7 ]
+18:37:23.756  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 28
+18:39:40.091  INFO  [lib BD_BailesDeSalon] All sessions closed
+18:39:40.094  INFO  [lib BD_BailesDeSalon] Sweeper stopped
+18:39:40.095  INFO  [lib BD_BailesDeSalon] library closed 
+18:39:57.200  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+18:39:57.201  INFO  [lib BD_BailesDeSalon]  location C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 3\GrupoLibreriasXML\BD_BailesDeSalon
+18:39:57.201  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=34, BCount=22, maxA=502
+18:42:06.568  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+18:42:06.617  INFO  [lib BD_BailesDeSalon] commit 7 on BD_BailesDeSalon (session 1)
+18:42:06.632  INFO  [lib BD_BailesDeSalon] commit 7 done
+18:42:06.632  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 7 ][ 1 2 3 4 5 6 7 8 ]
+18:42:06.633  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 31 in ms 0.3693
+18:42:06.633  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 32
+18:42:30.841  INFO  [lib BD_BailesDeSalon] All sessions closed
+18:42:30.844  INFO  [lib BD_BailesDeSalon] Sweeper stopped
+18:42:30.845  INFO  [lib BD_BailesDeSalon] library closed 
+18:43:41.602  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+18:43:41.602  INFO  [lib BD_BailesDeSalon]  location C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 3\GrupoLibreriasXML\BD_BailesDeSalon
+18:43:41.602  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=38, BCount=24, maxA=502
+18:43:48.274  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+18:43:48.319  INFO  [lib BD_BailesDeSalon] commit 8 on BD_BailesDeSalon (session 1)
+18:43:48.336  INFO  [lib BD_BailesDeSalon] commit 8 done
+18:43:48.336  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 7 8 ][ 1 2 3 4 5 6 7 8 9 ]
+18:43:48.336  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 35 in ms 0.3773
+18:43:48.336  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 36
+18:44:03.145  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+18:44:03.161  INFO  [lib BD_BailesDeSalon] commit 9 on BD_BailesDeSalon (session 1)
+18:44:03.176  INFO  [lib BD_BailesDeSalon] commit 9 done
+18:44:03.176  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 docs: 39 in ms 0.0679
+18:44:03.176  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 40
+18:44:03.177  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 6 7 8 9 ][ 1 2 3 4 5 6 7 8 9 a ]
+18:44:03.182  INFO  [lib BD_BailesDeSalon] start auto compaction of 10 M segments to 000B: 0001 0002 0003 0004 0005 0006 0007 0008 0009 000A
+18:44:03.195  INFO  [lib BD_BailesDeSalon] compaction done -> state: [ 1 2 3 4 5 6 7 8 9 ][ b ]

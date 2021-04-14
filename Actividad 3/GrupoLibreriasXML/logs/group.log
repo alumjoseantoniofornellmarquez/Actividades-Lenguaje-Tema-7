@@ -1,0 +1,35 @@
+20:01:27.292  INFO  [LibraryManager] ---- group creation in C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 2\GrupoLibreriasXML
+20:01:27.293  INFO  [LibraryManager]  100
+20:27:50.767  INFO  [LibraryManager] shutdown begins
+20:27:50.770  INFO  [LibraryManager]  closed library BD_Libros
+20:27:50.770  INFO  [LibraryManager] shutdown complete.
+20:35:04.371  INFO  [LibraryManager] ---- starting up ----
+20:35:04.371  INFO  [LibraryManager]  100
+20:35:04.424  INFO  [LibraryManager] Library group ready
+20:38:25.883  INFO  [LibraryManager] shutdown begins
+20:38:25.884  INFO  [LibraryManager]  closed library BD_Libros
+20:38:25.884  INFO  [LibraryManager] shutdown complete.
+17:41:39.965  INFO  [LibraryManager] ---- starting up ----
+17:41:39.966  INFO  [LibraryManager]  100
+17:41:40.051  INFO  [LibraryManager] Library group ready
+18:57:17.213  INFO  [LibraryManager] shutdown begins
+18:57:17.217  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+18:57:17.218  INFO  [LibraryManager]  closed library BD_Libros
+18:57:17.218  INFO  [LibraryManager] shutdown complete.
+17:50:19.520  INFO  [LibraryManager] ---- starting up ----
+17:50:19.520  INFO  [LibraryManager]  100
+17:50:19.606  INFO  [LibraryManager] Library group ready
+18:39:40.091  INFO  [LibraryManager] shutdown begins
+18:39:40.095  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+18:39:40.096  INFO  [LibraryManager]  closed library BD_Libros
+18:39:40.096  INFO  [LibraryManager] shutdown complete.
+18:39:57.129  INFO  [LibraryManager] ---- starting up ----
+18:39:57.130  INFO  [LibraryManager]  100
+18:39:57.210  INFO  [LibraryManager] Library group ready
+18:42:30.841  INFO  [LibraryManager] shutdown begins
+18:42:30.845  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+18:42:30.846  INFO  [LibraryManager]  closed library BD_Libros
+18:42:30.846  INFO  [LibraryManager] shutdown complete.
+18:43:41.538  INFO  [LibraryManager] ---- starting up ----
+18:43:41.539  INFO  [LibraryManager]  100
+18:43:41.613  INFO  [LibraryManager] Library group ready

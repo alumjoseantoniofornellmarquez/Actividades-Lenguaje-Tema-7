@@ -1,0 +1,13 @@
+17:42:19.519  INFO  [lib BD_BailesDeSalon] Qizx 4.4p1 creating new XML Library in C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 3\GrupoLibreriasXML\BD_BailesDeSalon
+17:42:19.519  INFO  [lib BD_BailesDeSalon] create storage in C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 3\GrupoLibreriasXML\BD_BailesDeSalon\contents.qdb
+17:42:19.521  INFO  [lib BD_BailesDeSalon] storage created
+17:42:19.616  INFO  [lib BD_BailesDeSalon] library creation done
+17:43:37.593  INFO  [lib BD_BailesDeSalon] BD_BailesDeSalon (session 1) error parsing document file:///C:/Users/Fornell/Desktop/1%C2%BA%20DAW/Lenguaje%20de%20marcas/tema%207/Ejercicios%20Tema%206/Actividad%202/DB_BailesDeSalon.xml (/DB_BailesDeSalon.xml): Invalid encoding name "ISO?8859?1".
+17:45:30.848  INFO  [lib BD_BailesDeSalon] commit start BD_BailesDeSalon (session 1)
+17:45:30.873  INFO  [lib BD_BailesDeSalon] commit 1 on BD_BailesDeSalon (session 1)
+17:45:30.887  INFO  [lib BD_BailesDeSalon] commit 1 done
+17:45:30.887  INFO  [lib BD_BailesDeSalon] commit end BD_BailesDeSalon (session 1) -> state: [ 1 ][ 1 2 ]
+17:45:30.888  INFO  [lib BD_BailesDeSalon] sweeper deleted 1/1 metadocs: 5
+18:57:17.215  INFO  [lib BD_BailesDeSalon] All sessions closed
+18:57:17.216  INFO  [lib BD_BailesDeSalon] Sweeper stopped
+18:57:17.217  INFO  [lib BD_BailesDeSalon] library closed 
