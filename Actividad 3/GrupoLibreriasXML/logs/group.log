@@ -33,3 +33,14 @@
 18:43:41.538  INFO  [LibraryManager] ---- starting up ----
 18:43:41.539  INFO  [LibraryManager]  100
 18:43:41.613  INFO  [LibraryManager] Library group ready
+19:20:15.453  INFO  [LibraryManager] shutdown begins
+19:20:15.459  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+19:20:15.459  INFO  [LibraryManager]  closed library BD_Libros
+19:20:15.459  INFO  [LibraryManager] shutdown complete.
+13:14:41.486  INFO  [LibraryManager] ---- starting up ----
+13:14:41.487  INFO  [LibraryManager]  100
+13:14:41.603  INFO  [LibraryManager] Library group ready
+14:23:47.823  INFO  [LibraryManager] shutdown begins
+14:23:47.826  INFO  [LibraryManager]  closed library BD_BailesDeSalon
+14:23:47.829  INFO  [LibraryManager]  closed library BD_Libros
+14:23:47.829  INFO  [LibraryManager] shutdown complete.
