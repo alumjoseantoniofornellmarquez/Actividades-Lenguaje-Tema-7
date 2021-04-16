@@ -44,3 +44,6 @@
 14:23:47.826  INFO  [LibraryManager]  closed library BD_BailesDeSalon
 14:23:47.829  INFO  [LibraryManager]  closed library BD_Libros
 14:23:47.829  INFO  [LibraryManager] shutdown complete.
+14:57:56.602  INFO  [LibraryManager] ---- starting up ----
+14:57:56.602  INFO  [LibraryManager]  100
+14:57:56.682  INFO  [LibraryManager] Library group ready

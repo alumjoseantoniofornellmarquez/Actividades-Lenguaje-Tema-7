@@ -22,6 +22,7 @@ let $numpaginas:=$libro/NumPaginas
 let $autornombre:=$libro/Autores/autor/Nombre
 let $autorapellido:=$libro/Autores/autor/Apellidos
 let $autorfecha:=$libro/Autores/autor/FechaNacimiento
+let $autornacio:=$libro/Autores/autor/Nacionalidad
 return
   <tr>
    <td>{data($codlibro)}<br/></td>
@@ -35,6 +36,7 @@ return
      {data($autornombre)}<br/>
      {data($autorapellido)}<br/>
      {data($autorfecha)}<br/>
+     {data($autornacio)}<br/>
    </td>
   </tr>
 }

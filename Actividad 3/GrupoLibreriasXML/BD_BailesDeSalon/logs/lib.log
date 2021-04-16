@@ -3,3 +3,6 @@
 13:14:41.588  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=72, BCount=42, maxA=502
 14:23:47.825  INFO  [lib BD_BailesDeSalon] All sessions closed
 14:23:47.826  INFO  [lib BD_BailesDeSalon] library closed 
+14:57:56.668  INFO  [lib BD_BailesDeSalon] Library opened by Qizx 4.4p1
+14:57:56.669  INFO  [lib BD_BailesDeSalon]  location C:\Users\Fornell\Desktop\1º DAW\Lenguaje de marcas\tema 7\Ejercicios Tema 6\Actividad 3\GrupoLibreriasXML\BD_BailesDeSalon
+14:57:56.669  INFO  [lib BD_BailesDeSalon]  document storage version=5, lastBId=72, BCount=42, maxA=502
